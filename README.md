@@ -38,5 +38,3 @@ This project showcases how raw transactional data can be transformed into meanin
 3. Run the `schema.sql` file to create and populate the database.
 4. Execute queries from `analysis.sql` to explore insights.
 
-## 📬 Contact
-If you’d like to connect or collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at your.email@example.com.
